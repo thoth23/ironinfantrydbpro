@@ -1,0 +1,12 @@
+#summary - Game Work In Progress
+
+= Introduction =
+
+This demo is a snapshot in time of *Iron Infantry's* progress before I switched to a different game engine (Same Vendor): DarkGDK C++.
+
+= Details =
+
+In short Iron Infantry is still in development. See http://www.jasonpetersage.com/ and follow the menu for game developement. There you'll find a progress log I update when I can and a progress photo gallery of various stages of development along the way.
+
+Have Fun!
+Jason P Sage
